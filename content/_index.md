@@ -10,7 +10,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mis expectativas para este proyecto son:
 
 - Aprender git y github.
-- Mejorar el ous de mi linia de comandos. 
+- Mejorar el uso de mi linia de comandos. 
 - Programar en node.
 - Conocer la buenas practicas de un desarrollador de backend.
 - Usar bases de datos.
