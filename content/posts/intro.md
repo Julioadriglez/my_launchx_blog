@@ -1,7 +1,7 @@
 ---
 title: "Mis expectativas"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Este es mi primer pos donde relatare previamente mi acercamiento a Backend con Node.Js de Launch X.'
 ---
 
 ¡Hola a todos los pasajeros que se suman a este viaje al igual que yo!
