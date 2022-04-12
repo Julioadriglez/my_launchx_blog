@@ -14,13 +14,23 @@ Este lenguaje de programación fue el que aprendimos primero en la semana de int
 Lo que aprendí de Phyton:
 
 •	Uso de Visual Estudio Code
+
 •	Crear y administrar proyectos
+
 •	Uso de variables
-•	Uso de operaciones matemáticas  
+
+•	Uso de operaciones matemáticas 
+
 •	Cadenas 
+
 •	Listas
+
 •	Usar lógica booleana
+
 •	Estructuras de control
+
 •	Funciones
+
 •	Administrar datos con diccionarios
+
 •	Manejo de errores
