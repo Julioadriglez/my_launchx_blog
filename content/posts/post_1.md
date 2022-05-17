@@ -21,13 +21,19 @@ Lo que aprendí de Phyton:
 
 •	Uso de variables
 
+![kata 3logica](https://user-images.githubusercontent.com/99068430/168917184-cfbd4e65-6494-43fe-b484-bbca1eef03f3.png)
+
 •	Uso de operaciones matemáticas 
 
-![kata 3logica](https://user-images.githubusercontent.com/99068430/168917184-cfbd4e65-6494-43fe-b484-bbca1eef03f3.png)
+![kata operaciones matematicas](https://user-images.githubusercontent.com/99068430/168918380-3ef48fe7-7bd1-4104-b16e-65e9913bda15.png)
 
 •	Cadenas 
 
+![kataCadenas](https://user-images.githubusercontent.com/99068430/168918722-1d598cf6-3ccd-48d3-adf7-e08d452c2cca.png)
+
 •	Listas
+
+![kataListas](https://user-images.githubusercontent.com/99068430/168918986-30186d8b-b011-406d-807c-bd31fad20cdc.png)
 
 •	Usar lógica booleana
 
@@ -35,8 +41,19 @@ Lo que aprendí de Phyton:
 
 •	Estructuras de control
 
+![katacontrol](https://user-images.githubusercontent.com/99068430/168920055-0765493e-d442-40d6-9f77-8b28b1c4cd43.png)
+
 •	Funciones
+ 
+ ![kataFunciones](https://user-images.githubusercontent.com/99068430/168920126-61a68070-e457-41ae-a705-0c904063f65c.png)
+
 
 •	Administrar datos con diccionarios
 
+![kataDiccionarios](https://user-images.githubusercontent.com/99068430/168920168-d85d000b-159e-443b-8a47-6ffc7093f75a.png)
+
+
 •	Manejo de errores
+
+![kataError](https://user-images.githubusercontent.com/99068430/168920557-d128e77d-00d1-4a3a-8bac-eb9f88b2b47a.png)
+
